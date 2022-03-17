@@ -13,7 +13,7 @@ I am currently working on a research project investigating whether increased per
 </br>between co-workers would increase job satisfaction and worker productivity. 
 
 ### ⏳ At the Moment
-<p align="center"> defrosting after a freezing winter </p>
+<p align="center"><i> defrosting after a freezing winter </i></p>
 <p align="center"> <img src="https://tenor.com/view/this-is-fine-fire-coffee-dog-gif-10959043.gif" width="500" height="250" /> </p>
 
 
