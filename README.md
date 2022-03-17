@@ -1,4 +1,4 @@
-### Hello I am Cho Laam <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="38" height="38" img align="left"/>
+### Hello I am Cho Laam <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="38" height="38"/>
 
 <img src="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261.gif" width="150" height="150" img align="right" />
 
@@ -17,7 +17,7 @@ I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorl
 You can reach me at cy2617@columbia.edu
 
 
-### At the Moment <img src="https://media.giphy.com/media/dZvJhVQNq1G508N5LI/giphy.gif" width="38" height="38" img align="left"/>
+### At the Moment <img src="https://media.giphy.com/media/dZvJhVQNq1G508N5LI/giphy.gif" width="38" height="38"/>
 <p align="center"><i> defrosting after a freezing winter </i></p>
 <p align="center"> <img src="https://tenor.com/view/this-is-fine-fire-coffee-dog-gif-10959043.gif" width="500" height="250" /> </p>
 
