@@ -2,10 +2,10 @@
 
 ### ⭐   About Me 
 <img src="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261.gif" width="150" height="150" img align="right" />
-Markup : * I am a graduate student at Columbia studying Quantitative Methods in the Social Sciences 👩🏻‍🎓
-</br>* Taking classes in Bayesian Statistics, Adv Machine Learning, and Data Visualization 👩🏻‍💻
-</br>* Aspiring data scientist, seeking to solve real world problems by leveraging big data 🔥
-</br>* Aside from my academic interests I am also an amateur cook 👩🏻‍🍳 
+<li>I am a graduate student at Columbia studying Quantitative Methods in the Social Sciences 👩🏻‍🎓 
+</br><li> Taking classes in Bayesian Statistics, Adv Machine Learning, and Data Visualization 👩🏻‍💻 
+</br><li> Aspiring data scientist, seeking to solve real world problems by leveraging big data 🔥 
+</br><li> Aside from my academic interests I am also an amateur cook 👩🏻‍🍳 
 
 ### 📂   Working On
 I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorlab/) at Columbia 
