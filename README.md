@@ -1,8 +1,7 @@
 ### Hello I am Cho Laam <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" img align="left"/>
 
-<img src="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261.gif" width="150" height="150" img align="right" />
-
 ### ⭐   About Me 
+<img src="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261.gif" width="150" height="150" img align="right" />
 I am a graduate student at Columbia studying Quantitative Methods in the Social Sciences 👩🏻‍🎓
 </br>Taking classes in Bayesian Statistics, Adv Machine Learning, and Data Visualization 👩🏻‍💻
 </br>Aspiring data scientist, seeking to solve real world problems by leveraging big data 🔥
