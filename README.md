@@ -1,13 +1,9 @@
 ### Hello I am Cho Laam 👋
 
-<img src="https://giphy.com/stickers/selfcare-the-app-tru-luv-WUlplcMpOCEmTGBtBW.gif" width="120" height="120" img align="right" />
-![Alt Text](https://giphy.com/gifs/meowbox-waving-cat-meowfest-dWTi2yiBnSq1K2MkTE.gif)
+<img src="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261.gif" width="120" height="120" img align="right" />
 
+I am currently a graduate student at Columbia. 
+Aspiring data scientist and amateur cook. 
 
+<img src="https://tenor.com/view/lets-party-drunk-gif-19112944.gif" width="100" height="100" img align="center" />
 
-<iframe src="https://giphy.com/embed/dWTi2yiBnSq1K2MkTE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meowbox-waving-cat-meowfest-dWTi2yiBnSq1K2MkTE">via GIPHY</a></p>
-
-
-I am currently a graduate student at Columbia. Aspiring data scientist
-
-<img src="https://tenor.com/view/lets-party-drunk-gif-19112944.gif" width="100" height="100" img align="right" />
