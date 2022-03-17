@@ -1,19 +1,19 @@
-### Hello I am Cho Laam <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="38" height="38"/>
+### Hello I am Cho Laam <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="38" height="38" img align="left"/>
 
 <img src="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261.gif" width="150" height="150" img align="right" />
 
-### ⭐ About Me 
+### ⭐  About Me 
 I am a graduate student at Columbia studying Quantitative Methods in the Social Sciences 👩🏻‍🎓
 </br>Taking classes in Bayesian Statistics, Adv Machine Learning, and Data Visualization 👩🏻‍💻
 </br>Aspiring data scientist, seeking to solve real world problems by leveraging big data 🔥
 </br>Aside from my academic interests I am also an amateur cook 👩🏻‍🍳 
 
-### 📂 Working On
+### 📂  Working On
 I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorlab/) at Columbia 
 </br>I am currently working on a research project investigating whether increased percieved emotional similarity 
 </br>between co-workers would increase job satisfaction and worker productivity. 
 
-### 📧 Contact
+### 📧  Contact
 You can reach me at cy2617@columbia.edu
 
 
