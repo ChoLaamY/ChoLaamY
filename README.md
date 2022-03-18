@@ -16,8 +16,6 @@ I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorl
 ### 🧰&nbsp;&nbsp;&nbsp; Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white.svg)&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white.svg)
 
-?style=for-the-badge&logo=appveyor&
-
 ### 📧&nbsp;&nbsp;&nbsp; Contact
 You can reach me at cy2617@columbia.edu
 
