@@ -8,7 +8,7 @@
 </br><li> Aspiring data scientist, seeking to solve real world problems by leveraging big data 🔥 
 </br><li> Aside from my academic interests I am also an amateur cook 👩🏻‍🍳 
 
-### 📂&nbsp;&nbsp;&nbsp; Working On
+### 📂&nbsp;&nbsp;&nbsp; Work
 I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorlab/) at Columbia 
 </br>I am currently working on a research project investigating whether increased percieved emotional similarity 
 </br>between co-workers would increase job satisfaction and worker productivity. 
