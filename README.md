@@ -13,6 +13,10 @@ I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorl
 </br>I am currently working on a research project investigating whether increased percieved emotional similarity 
 </br>between co-workers would increase job satisfaction and worker productivity. 
 
+### 🧰&nbsp;&nbsp;&nbsp; Technologies
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white.svg)&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white.svg)&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white.svg)
+
+
 ### 📧&nbsp;&nbsp;&nbsp; Contact
 You can reach me at cy2617@columbia.edu
 
