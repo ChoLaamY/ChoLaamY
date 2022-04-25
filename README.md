@@ -10,8 +10,7 @@
 
 ### 📂&nbsp;&nbsp;&nbsp; Work and Research
 I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorlab/) at Columbia 
-</br>I am currently working on a research project investigating whether increased percieved emotional similarity 
-</br>between co-workers would increase job satisfaction and worker productivity. 
+</br>I am currently working on a research project investigating whether increased percieved emotional similarity between co-workers would increase job satisfaction and worker productivity. 
 
 ### 🧰&nbsp;&nbsp;&nbsp; Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white.svg)&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white.svg)
