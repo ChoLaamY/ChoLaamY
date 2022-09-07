@@ -21,7 +21,10 @@ You can reach me at cy2617@columbia.edu
 </br>
 
 ### At the Moment <img src="https://media.giphy.com/media/h7iwdwDAAhrAcpG41n/giphy.gif" width="30" height="40" img align="left"/>
-<p align="center"><i> boiling in the summer heat </i></p>
-<p align="center"> <img src="https://tenor.com/view/this-is-fine-fire-coffee-dog-gif-10959043.gif" width="500" height="250" /> </p>
+<!-- <p align="center"><i> defrostig after a fridgid witer </i></p> -->
+<!-- <p align="center"> <img src="https://tenor.com/view/this-is-fine-fire-coffee-dog-gif-10959043.gif" width="500" height="250" /> </p> -->
+<p align="center"> <img src="https://tenor.com/view/hh-whta-uout-gif-22206643" width="500" height="250" /> </p>
+
+
 
 
