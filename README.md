@@ -13,7 +13,7 @@ I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorl
 </br>I am currently working on a research project investigating whether increased percieved emotional similarity between co-workers would increase job satisfaction and worker productivity. 
 
 ### 🧰&nbsp;&nbsp;&nbsp; Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white.svg)&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white.svg)&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white.svg)&nbsp; ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 📧&nbsp;&nbsp;&nbsp; Contact
 You can reach me at cy2617@columbia.edu
