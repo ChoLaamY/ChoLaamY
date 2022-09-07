@@ -9,10 +9,11 @@
 </br><li> Aside from my academic interests I am also an amateur cook 👩🏻‍🍳 
 
 ### 📂&nbsp;&nbsp;&nbsp; Work and Research
-I work in the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorlab/) at Columbia 
+I work part time at [Graphen](https://www.graphen.ai/). 
+</br>I am also doing research with the [Behavioural Research Lab](https://www8.gsb.columbia.edu/behaviorlab/) at Columbia.
 </br>I am currently working on a research project investigating whether increased percieved emotional similarity between co-workers would increase job satisfaction and worker productivity. 
 
-### 🧰&nbsp;&nbsp;&nbsp; Technologies
+### 🧰&nbsp;&nbsp;&nbsp; Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white.svg)&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white.svg)&nbsp; ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
 ### 📧&nbsp;&nbsp;&nbsp; Contact
