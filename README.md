@@ -4,7 +4,7 @@
 ### ⭐&nbsp;&nbsp;&nbsp; About Me 
 <img src="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261.gif" width="150" height="150" img align="right" />
 <li>I am a graduate student at Columbia studying Quantitative Methods in the Social Sciences 👩🏻‍🎓 
-</br><li> Taking classes in Bayesian Statistics, Adv Machine Learning, and Data Visualization 👩🏻‍💻 
+</br><li> Taking classes in Modern Data Structures, Bayesian Analysis, and UI Design 👩🏻‍💻 
 </br><li> Aspiring data scientist, seeking to solve real world problems by leveraging big data 🔥 
 </br><li> Aside from my academic interests I am also an amateur cook 👩🏻‍🍳 
 
